@@ -22,7 +22,7 @@ import java.util.Optional;
 
 public class MusicBot {
     private static AudioPlayerManager playerManager;
-    private final static String TOKEN = "ODg4NDg1NTIwNjAxMTIwODI4.YUTYnw.4OyMQ55qp2IOo3Rb4bxcFrdlUtQ";
+    private final static String TOKEN = " ";
     private static TrackScheduler scheduler;
     private static AudioPlayer player;
 
